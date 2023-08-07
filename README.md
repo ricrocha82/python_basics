@@ -1,2 +1,2 @@
-# python_basics
-learning python from the beginning
+# Some basic stuff of Python language
+Notes from the Udemy Python course
