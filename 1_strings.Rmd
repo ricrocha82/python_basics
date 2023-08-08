@@ -1,5 +1,5 @@
 ---
-title: "1_Strings"
+title: "1. Strings - The basics"
 author: "RRPS"
 date: "`r Sys.Date()`"
 output: html_document
@@ -281,4 +281,5 @@ Date and time format
 ```{python}
 today = datetime(year=2017, month=1, day=27)
 ```
+
 
