@@ -249,7 +249,7 @@ print("The result is {r:20.3f}".format(r=result))
 
 #### [f-string method](https://docs.python.org/3/reference/lexical_analysis.html#f-strings)
 
-new method, after Python 3.6
+new method, after Python 3.6 (F-strings)
 
 ```{python}
 name = "Jose"

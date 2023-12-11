@@ -60,7 +60,7 @@ new_list
 
 add an item at the end of a list
 
-you don;t need to assign to a new variable, like in R
+you don't need to assign to a new variable, like in R
 ```{python}
 # append
 new_list.append("six")
