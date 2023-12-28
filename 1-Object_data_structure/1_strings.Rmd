@@ -98,9 +98,9 @@ step means jumping
 ```{python}
 my_string="abcdefghijk"
 
-# ":" up tp but not included 
+# ":" up to but not included 
 my_string[2:]
-# frm the beginning up to the 3 position, but nt inlcuding the 3 position
+# from the beginning up to the 3 position, but nt inlcuding the 3 position
 my_string[:3]
 my_string[3:6]
 # everything but the last word
@@ -214,7 +214,7 @@ print('First: %s, Second: %5.2f, Third: %r' %('hi!',3.1415,'bye!'))
 An improved technique
 
 The `.format()` is something like this
-"You can put a string here `{}` and the put another here `{}`".format('something1', 'something2')
+"You can put a string here `{}` and put another here `{}`".format('something1', 'something2')
 
 ```{python}
 # Insert by index position
